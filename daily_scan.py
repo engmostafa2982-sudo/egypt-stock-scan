@@ -296,7 +296,8 @@ if __name__ == '__main__':
         html_path = build_report()
         elapsed = int(time.time() - t0)
         log(f"SCAN COMPLETE in {elapsed//60}m {elapsed%60}s")
-        if html_path and os.path.exists(html_path):
+        # Auto-open the report (Windows only — not available on Linux/GitHub Actions)
+        if html_path and os.path.exists(html_path) and sys.platform == 'win32':
             os.startfile(html_path)
     except Exception as e:
         log(f"FATAL ERROR: {e}")

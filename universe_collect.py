@@ -1,8 +1,9 @@
 """
 universe_collect.py — Collect ALL Egyptian Exchange (EGX) stocks from EODHD.
-No price filter. Exchange code: CA (Cairo).
+Uses the exchange-symbol-list endpoint (reliable, no price filter needed).
+Exchange code: EGX
 """
-import os, csv, time, requests
+import os, csv, requests
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
@@ -24,52 +25,53 @@ def collect_universe(out_path=None):
     if out_path is None:
         out_path = os.path.join(HERE, "universe.csv")
 
-    url = "https://eodhd.com/api/screener"
-    all_tickers = []
-    offset = 0
-    limit  = 100
+    print("Fetching EGX universe from exchange-symbol-list...")
+    url = "https://eodhd.com/api/exchange-symbol-list/EGX"
+    try:
+        r = requests.get(url, params={"api_token": KEY, "fmt": "json"}, timeout=30)
+        if r.status_code != 200:
+            print(f"  Error {r.status_code}: {r.text[:200]}")
+            return []
+        data = r.json()
+        if not isinstance(data, list):
+            print(f"  Unexpected response: {str(data)[:200]}")
+            return []
+    except Exception as e:
+        print(f"  Request failed: {e}")
+        return []
 
-    print("Fetching EGX universe (no price filter)...")
-    while True:
-        params = {
-            "api_token": KEY,
-            "fmt": "json",
-            "filters": '[["exchange","=","EGX"]]',
-            "limit": limit,
-            "offset": offset,
-            "sort": "market_capitalization.desc"
-        }
-        try:
-            r = requests.get(url, params=params, timeout=30)
-            if r.status_code != 200:
-                print(f"  Screener error {r.status_code} at offset {offset}")
-                break
-            data = r.json().get("data", [])
-            if not data:
-                break
-            all_tickers.extend(data)
-            print(f"  Fetched {len(all_tickers)} stocks so far...")
-            if len(data) < limit:
-                break
-            offset += limit
-            time.sleep(0.3)
-        except Exception as e:
-            print(f"  Error at offset {offset}: {e}")
-            break
+    # Filter to common stocks only
+    stocks = [d for d in data if d.get('Type', '').lower() in ('common stock', 'stock', '')]
+    if not stocks:
+        stocks = data  # fallback: include all types
 
-    print(f"Total EGX stocks found: {len(all_tickers)}")
+    print(f"Total EGX stocks found: {len(stocks)}")
 
-    # Write CSV
+    # Write CSV with columns expected by score_engine.py
     fieldnames = ["code", "name", "exchange", "currency_symbol",
                   "adjusted_close", "market_capitalization", "sector",
                   "industry", "avgvol_200d", "earnings_share", "dividend_yield"]
+
     with open(out_path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
         w.writeheader()
-        w.writerows(all_tickers)
+        for d in stocks:
+            w.writerow({
+                "code":                 d.get("Code", ""),
+                "name":                 d.get("Name", ""),
+                "exchange":             d.get("Exchange", "EGX"),
+                "currency_symbol":      d.get("Currency", "EGP"),
+                "adjusted_close":       "",
+                "market_capitalization": "",
+                "sector":               "",
+                "industry":             "",
+                "avgvol_200d":          "",
+                "earnings_share":       "",
+                "dividend_yield":       "",
+            })
 
-    print(f"Saved to {out_path}")
-    return all_tickers
+    print(f"Saved {len(stocks)} stocks to {out_path}")
+    return stocks
 
 if __name__ == "__main__":
     collect_universe()

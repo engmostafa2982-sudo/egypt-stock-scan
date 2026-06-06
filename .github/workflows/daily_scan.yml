@@ -45,6 +45,8 @@ jobs:
           cp EGX_Stock_Scan_*.html docs/index.html
           cp EGX_Stock_Scan_*.html docs/
           cp master_ranked_*.csv docs/ 2>/dev/null || true
+          # Copy control panel page
+          cp trigger.html docs/trigger.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

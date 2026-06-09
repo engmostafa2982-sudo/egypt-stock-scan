@@ -1,0 +1,271 @@
+code,name,price,trend,momentum,volatility,volume,sr,pattern,sentiment,raw,adj,final,zone,action,weekly_raw,g5,g10,ext,rsi,dist_flags,mct,sector,mcap,avgvol
+CERA,The Arab Ceramic CO.- Ceramica Remas,1.2,16,14,9,9,7,11,5,71,1.0,78.0,Strong,Enter w/ confidence,49,3.4,0.8,2.8,62.0,0,,nan,nan,nan
+ECAP,El Ezz Porcelain (Gemma),31.11,16,13,4,15,7,11,5,71,1.0,75.0,Strong,Enter w/ confidence,59,2.6,6.8,3.7,66.7,0,,nan,nan,nan
+GPIM,GPI For Urban Growth,0.99,18,8,7,15,6,12,5,71,-3.0,71.0,Strong,Enter w/ confidence,0,12.5,17.9,11.0,72.9,2,,nan,nan,nan
+KASABF,Certificates Of Odin Egyptian Equity Investment Fund-KASAB,4.12,15,8,7,11,6,12,5,64,-1.0,68.0,Moderate,Enter w/ caution,55,7.3,15.4,9.6,75.6,2,,nan,nan,nan
+ENGC,Engineering Industries (ICON),34.25,16,15,7,7,8,4,3,60,4.0,67.0,Moderate,Enter w/ caution,66,3.7,2.4,1.9,57.0,1,,nan,nan,nan
+JUFO,Juhayna Food Industries,30.1,18,14,6,16,6,8,5,73,-7.0,67.0,Moderate,Enter w/ caution,58,3.8,7.7,4.6,62.9,1,,nan,nan,nan
+RMDA,Tenth Of Ramadan Pharmaceutical Industries&Diagnostic-Rameda,5.23,16,10,9,17,6,5,5,68,-9.0,64.0,Moderate,Enter w/ caution,69,1.6,1.9,4.4,65.1,0,,nan,nan,nan
+MBSC,Misr Beni Suef Cement,276.35,14,15,5,10,8,4,5,61,2.0,63.0,Moderate,Enter w/ caution,63,2.8,-3.0,1.7,56.1,0,,nan,nan,nan
+ZMID,Zahraa Maadi Investment & Development,6.26,17,13,3,10,6,7,5,61,1.0,63.0,Moderate,Enter w/ caution,71,3.0,2.6,4.5,62.9,0,,nan,nan,nan
+AIND,Arabia Investments Holding,0.38,18,9,10,15,6,12,5,75,-13.0,62.0,Moderate,Enter w/ caution,64,8.6,8.6,7.7,73.7,1,,nan,nan,nan
+CANA,Suez Canal Bank S.A.E,38.08,14,13,6,16,3,5,5,62,-1.0,62.0,Moderate,Enter w/ caution,43,9.0,9.1,6.1,59.1,1,,nan,nan,nan
+MPRC,Egyptian Media Production City,33.74,19,6,5,15,5,6,5,61,1.0,62.0,Moderate,Enter w/ caution,60,5.4,5.0,5.2,65.4,0,,nan,nan,nan
+EEII,El Arabia Engineering Industries,2.43,13,12,7,7,8,3,5,55,1.0,60.0,Moderate,Enter w/ caution,62,5.2,0.4,3.1,60.6,0,,nan,nan,nan
+MEPA,Medical Packaging Company,1.75,13,14,9,8,6,7,5,62,-6.0,59.0,Moderate,Enter w/ caution,57,4.2,-1.7,3.1,60.0,0,,nan,nan,nan
+MOIL,Maridive & oil services,0.48,18,13,11,15,6,0,5,68,-7.0,59.0,Moderate,Enter w/ caution,64,0.0,4.3,3.5,62.8,0,,nan,nan,nan
+ATLC,Al Tawfeek Leasing Company-A.T.LEASE,5.02,11,15,3,8,9,8,4,58,2.0,58.0,Moderate,Enter w/ caution,54,3.5,2.7,1.8,55.7,1,,nan,nan,nan
+EASB,Egyptian Arabian(Themar)Comp. For Securities&Bonds Brok. EAC,5.06,16,11,6,10,7,4,5,59,1.0,58.0,Moderate,Enter w/ caution,56,5.0,7.2,5.2,66.2,1,,nan,nan,nan
+MPCI,Memphis Pharmaceuticals,227.0,19,8,7,15,6,8,5,68,-10.0,56.0,Moderate,Enter w/ caution,70,7.6,8.1,10.7,74.1,1,,nan,nan,nan
+ROTO,Rowad Tourism (Al Rowad),33.89,16,7,8,7,5,5,3,51,2.0,56.0,Moderate,Enter w/ caution,49,2.9,2.0,1.4,55.6,0,,nan,nan,nan
+GMCI,GMC GROUP FOR INDUSTRIAL COMMERCIAL & FINANCIAL INVESTMENTS,1.78,15,6,7,9,7,2,4,50,2.0,55.0,Moderate,Enter w/ caution,57,1.1,4.7,1.6,55.5,0,,nan,nan,nan
+NEDA,Northern Upper Egypt Development & Agricultural Production,2.8,14,6,7,9,5,8,3,52,0.0,55.0,Moderate,Enter w/ caution,50,2.6,1.8,1.2,55.3,0,,nan,nan,nan
+AXPH,Alexandria Pharmaceuticals,1142.08,14,9,4,11,6,5,5,54,1.0,53.0,Weak,Watchlist only,63,1.0,0.0,4.2,68.5,1,,nan,nan,nan
+EHDR,Egyptians Housing Development & Reconstruction,2.69,19,7,5,12,5,3,5,56,-3.0,53.0,Weak,Watchlist only,54,15.9,17.5,11.3,74.7,2,,nan,nan,nan
+MICH,Misr Chemical Industries,36.96,15,14,3,8,7,8,5,60,-5.0,53.0,Weak,Watchlist only,63,3.3,4.1,2.6,60.2,0,,nan,nan,nan
+SDTI,Sharm Dreams Co. for Tourism Investment,45.93,17,8,10,15,5,7,5,67,-12.0,53.0,Weak,Watchlist only,53,3.7,3.2,2.7,61.0,0,,nan,nan,nan
+ALRA,Atlas For Investment and Food Industries,1.83,11,7,7,14,5,7,5,56,-4.0,52.0,Weak,Watchlist only,40,3.4,2.2,2.1,55.2,0,,nan,nan,nan
+ICID,International Co For Investment & Development,6.12,18,6,4,15,7,11,5,66,-12.0,52.0,Weak,Watchlist only,62,16.8,28.0,19.3,82.3,2,,nan,nan,nan
+MAAL,Egyptian Gulf Marseilia For Real Estate Investment,5.95,18,5,7,15,7,7,5,64,-12.0,52.0,Weak,Watchlist only,61,11.4,31.6,16.7,86.6,2,,nan,nan,nan
+MPCO,Mansourah Poultry,1.77,18,8,4,10,7,5,5,57,-5.0,52.0,Weak,Watchlist only,51,9.3,9.9,6.3,63.0,1,,nan,nan,nan
+AGIG,Arab Moltaka Investments Co,8.99,14,11,6,8,7,1,5,52,1.0,51.0,Weak,Watchlist only,57,2.0,2.0,4.1,65.7,1,,nan,nan,nan
+CSAG,Canal Shipping Agencies,31.22,13,5,8,10,3,5,4,48,0.0,51.0,Weak,Watchlist only,42,-1.9,0.7,-0.3,51.2,0,,nan,nan,nan
+EAST,Eastern Company,39.85,7,15,7,9,6,3,5,52,4.0,50,Weak,Watchlist only,56,7.3,-0.4,2.4,56.1,1,,nan,nan,nan
+EGREF,Egyptians Real Estate Fund Certificates,13.75,17,7,3,15,5,3,5,55,-5.0,50.0,Weak,Watchlist only,58,2.5,3.8,2.7,67.4,0,,nan,nan,nan
+KRDI,Al Khair River For Development Agricultural Investment&Envir,0.36,9,8,10,9,2,3,4,45,2.0,50.0,Weak,Watchlist only,14,2.9,5.9,1.0,43.0,0,,nan,nan,nan
+APSW,ARAB POLVARA SPINNING & WEAVING CO.,8.9,9,4,8,13,5,3,4,46,0.0,49.0,Weak,Watchlist only,40,-1.1,-2.6,-0.2,51.7,0,,nan,nan,nan
+EGBE,Egyptian Gulf Bank,0.45,13,11,5,13,6,1,5,54,-3.0,49.0,Weak,Watchlist only,56,-2.2,-4.3,1.7,60.2,0,,nan,nan,nan
+PHAR,Egyptian International Pharmaceuticals (EIPICO),86.6,13,5,4,10,5,8,4,49,0.0,49.0,Weak,Watchlist only,50,0.1,-0.4,-0.0,51.0,0,,nan,nan,nan
+PRCL,Ceramic & Porcelain,26.2,18,14,5,16,6,10,5,74,-28.0,49.0,Weak,Watchlist only,65,9.5,13.9,15.0,70.4,3,,nan,nan,nan
+ELSH,El Shams Housing & Urbanization,13.5,18,8,4,17,6,12,5,70,-26.5,48.5,Weak,Watchlist only,69,45.5,60.3,39.1,85.1,2,,nan,nan,nan
+CCAP,QALA For Financial Investments,5.58,18,7,5,13,7,9,5,64,-16.0,48.0,Weak,Watchlist only,67,2.6,4.5,7.9,65.1,0,,nan,nan,nan
+ETRS,Egyptian Transport (EGYTRANS),8.91,17,5,4,15,5,2,5,53,-5.0,48.0,Weak,Watchlist only,50,4.7,13.8,7.5,66.8,2,,nan,nan,nan
+GDWA,Gadwa For Industrial Development,0.82,16,10,9,5,5,11,3,59,-14.0,48.0,Weak,Watchlist only,33,3.8,3.8,2.8,63.1,0,,nan,nan,nan
+HDBK,Housing & Development Bank,143.02,11,14,5,4,8,5,3,50,-8.0,48.0,Weak,🔥 COILED: Watchlist only,50,0.6,-0.3,0.1,51.1,1,,nan,nan,nan
+ADIB,Abu Dhabi Islamic Bank- Egypt,46.25,12,6,9,13,3,5,3,51,-4.0,47.0,Weak,Watchlist only,51,-4.3,-2.6,-1.1,49.6,0,,nan,nan,nan
+EDBM,The Egyptian Company for Construction Development-Lift Slab,0.71,7,6,11,10,3,4,3,44,0.0,47.0,Weak,Watchlist only,35,0.0,0.0,0.0,31.7,0,,nan,nan,nan
+ISPH,Ibnsina Pharma,12.44,17,6,6,14,5,6,5,59,-12.0,47.0,Weak,Watchlist only,56,6.4,5.4,5.6,65.2,0,,nan,nan,nan
+TANM,Tanmiya for Real Estate Investment,5.03,16,12,3,6,8,7,3,55,-6.0,47.0,Weak,Watchlist only,60,1.2,2.7,1.5,54.1,0,,nan,nan,nan
+ALUM,Arab Aluminum,25.21,19,8,6,10,5,6,5,59,-13.0,46.0,Weak,Watchlist only,65,6.1,1.3,5.7,65.2,0,,nan,nan,nan
+BINV,B Investments Holding,46.0,17,5,4,14,5,1,5,51,-5.0,46.0,Weak,Watchlist only,57,4.1,10.8,5.0,64.6,2,,nan,nan,nan
+CNFN,Contact Financial Holding,4.6,9,12,6,4,8,3,4,46,-6.0,46.0,Weak,🔥 COILED: Watchlist only,58,2.2,-3.2,0.9,53.8,0,,nan,nan,nan
+KABO,El Nasr Clothes & Textiles (Kabo),6.29,16,7,5,9,5,4,4,50,-4.0,46.0,Weak,Watchlist only,52,-3.2,5.7,1.3,56.1,0,,nan,nan,nan
+SNFC,Sharkia National Food,12.09,13,12,2,13,7,2,4,53,-10.0,46.0,Weak,🔥 COILED: Watchlist only,59,-2.9,-3.6,-0.0,52.5,0,,nan,nan,nan
+TMGH,T M G Holding,96.7,14,14,10,3,6,5,3,55,-10.0,46.0,Weak,Watchlist only,57,-0.4,-2.3,0.9,55.2,0,,nan,nan,nan
+UNIP,Universal For Paper and Packaging Materials (Unipack,0.32,17,6,7,14,5,5,5,59,-13.0,46.0,Weak,⚠️ EXHAUSTION RISK: Watchlist only,51,10.3,10.3,7.8,69.2,2,,nan,nan,nan
+ETEL,Telecom Egypt,94.05,7,7,8,8,5,3,4,42,0.0,45.0,Weak,Watchlist only,47,-4.0,-1.8,-1.6,46.5,0,,nan,nan,nan
+GGCC,Giza General Contracting,0.43,11,6,8,8,2,5,4,44,1.0,45.0,Weak,Watchlist only,32,4.9,4.9,3.6,61.3,0,,nan,nan,nan
+ISMQ,Iron And Steel for Mines and Quarries,7.8,18,14,3,11,7,2,5,60,-13.0,45.0,Weak,Watchlist only,67,-1.3,4.8,2.5,57.6,0,,nan,nan,nan
+MASR,Madinet Masr For Housing and Development,6.9,10,10,4,12,7,2,5,50,-3.0,45.0,Weak,Watchlist only,57,-3.2,-2.1,0.7,55.0,1,,nan,nan,nan
+NCCW,Nasr Company for Civil Works,6.25,16,6,5,16,7,5,5,60,-16.0,45.0,Weak,Watchlist only,73,14.3,17.0,12.5,73.4,2,,nan,nan,nan
+PRMH,Prime Holding,2.82,18,9,5,12,5,4,5,58,-13.0,45.0,Weak,Watchlist only,58,24.2,23.7,16.9,76.6,2,,nan,nan,nan
+WACE,El Wadi For International and Investement Development,2.13,18,8,8,16,6,5,5,66,-21.0,45.0,Weak,Watchlist only,67,3.9,15.8,9.6,83.2,2,,nan,nan,nan
+AJWA,AJWA for Food Industries company Egypt,135.0,16,4,9,8,5,5,4,51,-10.0,44.0,Weak,Watchlist only,48,1.5,0.7,1.3,60.0,0,,nan,nan,nan
+AREH,Egyptian Real Estate Group,1.48,18,9,5,10,7,5,5,59,-16.0,44.0,Weak,Watchlist only,58,10.4,12.1,9.1,72.1,2,,nan,nan,nan
+CFGH,Concrete Fashion Group For Commercial& Industrial Investment,0.11,7,1,11,10,7,0,3,39,2.0,44.0,Weak,Watchlist only,51,0.0,0.0,0.0,53.2,0,,nan,nan,nan
+EGCH,Egyptian Chemical Industries (Kima),14.66,18,7,6,15,7,3,5,61,-15.0,44.0,Weak,Watchlist only,63,2.9,2.4,5.7,64.5,0,,nan,nan,nan
+NAPR,National Printing,25.5,12,12,2,8,8,1,5,48,-2.0,44.0,Weak,Watchlist only,58,-2.4,-1.9,3.6,61.2,1,,nan,nan,nan
+NIPH,El-Nile Co. For Pharmaceuticals And Chemical Industries,169.0,17,12,5,5,5,4,5,53,-9.0,44.0,Weak,Watchlist only,57,4.3,4.3,6.7,65.1,0,,nan,nan,nan
+RTVC,Remco for Touristic Villages Construction,3.99,9,13,3,5,8,3,3,44,-6.0,44.0,Weak,🔥 COILED: Watchlist only,55,4.2,1.0,2.1,54.3,1,,nan,nan,nan
+ARVA,Arab Valves Company,11.37,18,9,5,14,7,3,5,61,-17.2,43.8,Weak,Watchlist only,73,21.2,26.5,21.2,77.6,2,,nan,nan,nan
+ABUK,Abou Kir Fertilizers,81.9,7,11,2,9,8,2,2,41,4.0,43.0,Weak,Watchlist only,44,-2.0,-8.0,-3.0,42.0,1,,nan,nan,nan
+ACAP,A Capital Holding,9.16,17,5,4,9,5,3,5,48,-5.0,43.0,Weak,Watchlist only,47,5.3,6.4,5.9,61.7,0,,nan,nan,nan
+MENA,Mena Touristic & Real Estate Investment,6.74,17,8,2,8,5,3,5,48,-3.0,43.0,Weak,Watchlist only,54,6.0,0.9,5.0,60.0,0,,nan,nan,nan
+PHDC,Palm Hills Development Company,15.0,15,10,4,15,7,4,5,60,-15.0,43.0,Weak,Watchlist only,58,-6.0,9.6,6.6,65.4,2,,nan,nan,nan
+TAQA,Taqa Arabia,14.5,18,8,3,9,5,7,5,55,-12.0,43.0,Weak,Watchlist only,63,6.6,7.0,4.6,64.7,0,,nan,nan,nan
+UBEE,The United Bank,13.77,10,16,6,6,7,4,3,52,-10.0,43.0,Weak,Watchlist only,37,0.5,0.1,0.2,52.5,0,,nan,nan,nan
+ACRO,Acrow Misr,127.52,7,4,11,9,3,4,3,41,-2.0,42.0,Weak,Watchlist only,49,0.0,0.0,0.0,61.7,0,,nan,nan,nan
+OFH,O B Financial Holding,0.63,12,3,7,14,3,8,3,50,-8.0,42.0,Weak,Watchlist only,53,1.6,0.0,0.5,53.1,0,,nan,nan,nan
+ORHD,Orascom Development Egypt,36.55,13,7,2,15,5,4,5,51,-9.0,42.0,Weak,Watchlist only,55,-6.1,5.3,3.5,61.5,0,,nan,nan,nan
+SIPC,Sabaa International Company for Pharmaceutical and Chemical,3.63,15,5,9,6,3,7,4,49,-10.0,42.0,Weak,Watchlist only,48,1.1,2.0,1.3,56.3,0,,nan,nan,nan
+EGAS,Natural Gas & Mining Project (Egypt Gas),49.76,15,7,3,8,3,7,5,48,-10.0,41.0,Weak,Watchlist only,49,1.8,-1.6,2.1,58.6,0,,nan,nan,nan
+LCSW,Lecico Egypt,26.96,10,9,4,9,5,5,4,46,-3.0,41.0,Weak,Watchlist only,62,-3.4,-0.3,-0.8,49.6,0,,nan,nan,nan
+MEDP,Medical Packaging Company,1.72,13,3,9,6,3,7,3,44,-8.0,41.0,Weak,🔥 COILED: Watchlist only,52,1.2,-0.6,1.0,54.6,0,,nan,nan,nan
+MHOT,Misr Hotels,30.67,17,3,2,8,5,1,5,41,0.0,41.0,Weak,Watchlist only,51,-8.2,14.1,2.5,56.1,2,,nan,nan,nan
+SEIG,Saudi Egyptian Investment & Finance,186.72,15,5,6,7,5,5,3,46,-10.0,41.0,Weak,🔥 COILED: Watchlist only,53,3.2,2.8,1.6,54.9,0,,nan,nan,nan
+SPHT,El Shams Pyramids For Hotels& Touristic Projects,1.91,9,3,9,8,4,2,3,38,0.0,41.0,Weak,Watchlist only,35,0.0,0.0,-0.0,0.0,0,,nan,nan,nan
+TALM,Taaleem Management Services,15.9,14,11,3,2,7,8,3,48,-8.0,41.0,Weak,Watchlist only,51,1.0,-0.9,0.6,53.0,0,,nan,nan,nan
+AALR,"General Company For Land Reclamation,Development & Reconstru",211.65,13,9,4,3,9,7,2,47,-7.0,40.0,Weak,Watchlist only,56,2.2,3.7,2.7,61.8,0,,nan,nan,nan
+DAPH,Development & Engineering Consultants,80.85,9,7,3,9,5,3,2,38,2.0,40.0,Weak,Watchlist only,34,-0.4,-4.8,-1.7,45.4,0,,nan,nan,nan
+ELNA,El Nasr For Manufacturing Agricultural Crops,39.54,11,7,6,3,9,4,3,43,-8.0,40.0,Weak,🔥 COILED: Watchlist only,61,0.7,-1.8,0.3,52.2,0,,nan,nan,nan
+EPPK,El Ahram Co. For Printing And Packing,12.5,6,14,9,4,8,4,3,48,-8.0,40.0,Weak,Watchlist only,51,3.6,0.7,0.7,50.8,1,,nan,nan,nan
+GRCA,Grand Investment Capital,54.49,6,5,5,12,5,4,3,40,0.0,40.0,Weak,Watchlist only,52,-7.1,-7.2,-4.1,42.0,0,,nan,nan,nan
+ODIN,ODIN Investments,2.05,19,8,3,9,3,5,5,52,-12.0,40.0,Weak,Watchlist only,61,6.2,6.2,3.6,61.0,0,,nan,nan,nan
+OLFI,Obour Land For Food Industries,21.73,6,12,8,4,9,3,3,45,-8.0,40.0,Weak,🔥 COILED: Watchlist only,33,1.2,1.8,0.3,51.1,1,,nan,nan,nan
+AFDI,El Ahli Investment and Development,43.79,18,5,3,15,5,3,5,54,-15.0,39.0,Poor,Stay away,57,5.0,4.8,5.2,64.4,0,,nan,nan,nan
+ARCC,Arabian Cement Company,57.81,15,7,4,15,3,4,5,53,-14.0,39.0,Poor,Stay away,62,-1.1,6.1,2.2,57.8,0,,nan,nan,nan
+BONY,Bonyan for Development and Trade,5.39,15,4,3,14,3,4,5,48,-9.0,39.0,Poor,Stay away,58,-2.2,13.5,6.0,64.9,2,,nan,nan,nan
+EGSA,Egyptian Satellites (NileSat),8.89,15,4,2,11,3,5,3,43,-4.0,39.0,Poor,Stay away,47,-2.3,4.7,0.6,57.0,0,,nan,nan,nan
+GIHD,Gharbia Islamic Housing Development,41.6,14,4,7,5,3,7,4,44,-10.0,39.0,Poor,🔥 COILED: Stay away,50,1.9,-0.3,1.0,54.7,0,,nan,nan,nan
+UEGC,Elsaeed Contracting& Real Estate Investment Company SCCD,1.45,18,6,5,9,7,2,5,52,-13.0,39.0,Poor,⚠️ EXHAUSTION RISK: Stay away,57,8.2,8.2,5.0,63.8,1,,nan,nan,nan
+ADCI,Arab Pharmaceuticals,215.04,13,9,9,9,5,2,5,52,-12.0,38.0,Poor,Stay away,51,-1.8,2.6,3.2,63.6,1,,nan,nan,nan
+CEFM,Middle Egypt Flour Mills,106.58,13,11,5,4,5,4,5,47,-10.0,38.0,Poor,Stay away,54,-0.5,-3.3,-0.1,52.4,0,,nan,nan,nan
+CPCI,Cairo Pharmaceuticals,364.82,14,5,5,9,7,6,5,51,-11.0,38.0,Poor,Stay away,56,3.7,4.6,5.2,73.3,1,,nan,nan,nan
+EGTS,Egyptian for Tourism Resorts,17.62,12,5,2,13,5,1,5,43,-3.0,38.0,Poor,Stay away,51,-16.9,-14.0,0.5,54.9,0,,nan,nan,nan
+FAIT,Faisal Islamic Bank of Egypt - In EGP,37.3,13,3,4,15,5,3,5,48,-10.0,38.0,Poor,Stay away,59,-2.0,-2.6,1.6,59.0,0,,nan,nan,nan
+MIPH,Minapharm Pharmaceuticals,669.69,13,10,5,3,7,5,2,45,-8.0,38.0,Poor,Stay away,58,2.6,-2.3,2.0,58.0,1,,nan,nan,nan
+CIRA,Cairo for Investment and Real Estate Development SAE,27.2,15,2,4,9,6,4,5,45,-6.0,37.0,Poor,Stay away,59,0.0,-2.5,8.5,73.5,0,,nan,nan,nan
+OCPH,October Pharma,357.69,14,7,4,3,5,5,2,40,-6.0,37.0,Poor,Stay away,52,-0.6,-1.2,0.2,56.2,0,,nan,nan,nan
+CICH,CI Capital Holding For Financial Investments,12.1,12,4,3,7,5,4,5,40,-4.0,36.0,Poor,Stay away,58,-1.1,-4.9,-0.9,50.4,0,,nan,nan,nan
+AMER,Amer Group Holding,2.74,15,8,4,9,7,4,5,52,-15.0,35.0,Poor,Stay away,52,-3.5,3.0,5.0,61.9,0,,nan,nan,nan
+CIEB,Credit Agricole Egypt,23.54,9,6,8,5,5,7,2,42,-10.0,35.0,Poor,Stay away,37,-0.1,-1.2,-1.1,42.7,0,,nan,nan,nan
+CRST,Creast Mark For Contracting And Real Estate Development,1.26,17,4,3,15,7,1,5,52,-15.0,35.0,Poor,Stay away,62,1.6,5.0,13.1,69.3,0,,nan,nan,nan
+EBSC,Osool ESB Securities Brokerage,1.84,19,6,3,10,5,5,5,53,-18.0,35.0,Poor,Stay away,54,10.2,7.6,3.4,57.3,0,,nan,nan,nan
+GOUR,Gourmet Egypt.Com Foods,12.79,10,5,9,9,5,2,3,43,-8.0,35.0,Poor,Stay away,0,0.9,-3.0,-0.8,49.7,0,,nan,nan,nan
+PRDC,Pioneers Properties For Urban Development - (PRE Group),6.08,18,4,3,14,3,3,5,50,-15.0,35.0,Poor,Stay away,58,3.2,12.0,6.0,66.2,2,,nan,nan,nan
+POUL,Cairo Poultry,36.88,13,5,4,15,3,4,5,49,-14.0,35.0,Poor,Stay away,53,-4.0,1.1,1.0,54.3,0,,nan,nan,nan
+SCEM,Sinai Cement,63.5,10,4,4,7,5,5,4,39,-4.0,35.0,Poor,Stay away,53,-5.6,-3.3,-1.5,48.3,0,,nan,nan,nan
+SUGR,Delta Sugar,49.22,9,4,3,12,3,8,4,43,-8.0,35.0,Poor,Stay away,43,-0.7,-3.0,-0.5,49.7,0,,nan,nan,nan
+CAED,Cairo Educational Services,71.26,13,11,3,3,5,4,5,44,-8.0,34.0,Poor,Stay away,48,-2.4,-5.2,-0.1,53.3,1,,nan,nan,nan
+COPR,Copper For Commercial Investment & Real Estate Development,0.36,16,5,6,8,5,2,5,47,-13.0,34.0,Poor,Stay away,42,0.0,2.9,4.4,78.7,0,,nan,nan,nan
+EXPA,Export Development Bank of Egypt,19.11,16,3,7,9,7,6,5,53,-19.0,34.0,Poor,Stay away,56,2.2,1.1,2.6,60.0,0,,nan,nan,nan
+GOCO,Golden Coast Company,2.79,9,7,10,6,0,4,3,39,-10.0,34.0,Poor,🔥 COILED: Stay away,36,0.0,0.0,-0.0,46.9,0,,nan,nan,nan
+ICLE,International Company For Leasing (IncoLEASE),15.76,4,3,9,8,3,1,3,31,0.0,34.0,Poor,Stay away,17,0.0,0.0,-0.5,0.0,0,,nan,nan,nan
+UNIT,United Housing & Development,14.19,18,7,3,10,7,1,5,51,-15.0,34.0,Poor,Stay away,56,4.9,6.8,9.6,66.9,0,,nan,nan,nan
+ASPI,Aspire Capital Holding For Financial Investments,0.34,18,5,2,11,5,4,5,50,-17.0,33.0,Poor,Stay away,55,21.4,9.7,7.5,58.8,1,,nan,nan,nan
+BIOC,Glaxo Smith Kline,73.58,15,4,5,6,5,5,5,45,-12.0,33.0,Poor,Stay away,58,0.4,1.7,1.7,57.5,0,,nan,nan,nan
+CIRF,Cairo For Investment And Real Estate Development,26.19,13,4,2,7,3,4,5,38,-5.0,33.0,Poor,Stay away,54,-2.6,-4.0,2.8,62.6,0,,nan,nan,nan
+FAITA,Faisal Islamic Bank of Egypt - In US Dollars,0.99,10,8,5,5,3,4,3,38,-10.0,33.0,Poor,🔥 COILED: Stay away,30,0.0,1.0,0.1,51.0,0,,nan,nan,nan
+IDRE,Ismailia Development and Real Estate Co,43.56,15,3,3,10,3,2,5,41,-8.0,33.0,Poor,Stay away,53,-2.0,-0.1,1.0,54.8,0,,nan,nan,nan
+MTIE,MM Group For Industry And International Trade,9.02,11,10,4,3,5,5,2,40,-10.0,33.0,Poor,🔥 COILED: Stay away,57,-2.0,-1.2,0.5,54.0,1,,nan,nan,nan
+ZEOT,Extracted Oils,9.16,14,10,5,2,5,6,3,45,-12.0,33.0,Poor,Stay away,55,5.0,2.6,1.4,54.0,0,,nan,nan,nan
+ACAMD,Arab Co. for Asset Management And Development,2.29,18,5,5,14,3,3,5,53,-21.0,32.0,Poor,Stay away,59,1.8,2.7,3.6,59.7,0,,nan,nan,nan
+AUTO,GB Corp,26.5,5,12,3,4,8,5,3,40,-6.0,32.0,Poor,Stay away,42,-0.7,1.3,-0.3,48.9,1,,nan,nan,nan
+EFIH,E-finance For Digital and Financial Investments,21.07,8,6,8,9,3,2,4,40,-8.0,32.0,Poor,Stay away,47,-5.3,-3.1,-3.0,44.4,0,,nan,nan,nan
+ELKA,El Kahera Housing,1.25,16,5,3,9,5,3,5,46,-14.0,32.0,Poor,Stay away,36,4.2,6.8,4.1,60.1,0,,nan,nan,nan
+GBCO,GB Corp.,26.5,5,12,2,5,8,5,3,40,-6.0,32.0,Poor,Stay away,42,-0.7,1.3,-0.3,48.9,1,,nan,nan,nan
+GPPL,Golden Pyramids Plaza,1.4,7,2,11,13,4,2,3,42,-13.0,32.0,Poor,Stay away,49,0.0,0.0,0.0,84.9,0,,nan,nan,nan
+MILS,North Cairo Mills,140.73,13,2,5,11,5,4,5,45,-13.0,32.0,Poor,Stay away,63,2.7,10.4,5.7,60.6,2,,nan,nan,nan
+MOIN,Mohandes Insurance,24.99,11,3,7,6,3,4,3,37,-10.0,32.0,Poor,🔥 COILED: Stay away,50,-1.0,2.5,0.5,54.5,0,,nan,nan,nan
+RREI,Arab Real Estate Investment CO.-ALICO,3.57,15,5,5,0,5,7,2,39,-10.0,32.0,Poor,Stay away,53,2.0,2.0,0.2,52.2,0,,nan,nan,nan
+ASCM,Asek Company for Mining - Ascom,55.15,18,9,2,9,5,3,5,51,-20.0,31.0,Poor,Stay away,55,15.7,14.8,10.2,69.1,2,,nan,nan,nan
+ATQA,Misr National Steel - Ataqa,9.82,13,4,6,1,5,7,2,38,-10.0,31.0,Poor,Stay away,38,0.4,1.8,0.1,51.3,0,,nan,nan,nan
+COSG,Cairo Oils & Soap,1.63,19,5,2,9,5,2,5,47,-16.0,31.0,Poor,Stay away,57,5.2,4.5,5.2,64.5,0,,nan,nan,nan
+EGAL,Egypt Aluminum,319.5,11,5,5,9,3,1,5,39,-8.0,31.0,Poor,Stay away,52,-2.6,-1.7,-0.4,51.3,0,,nan,nan,nan
+EMFD,Emaar Misr for Development,12.01,18,7,2,14,3,5,5,54,-23.0,31.0,Poor,Stay away,62,2.0,15.3,7.7,66.5,2,,nan,nan,nan
+MATD,Marsa Marsa Alam For Tourism Development,3.37,10,7,9,5,3,1,3,38,-10.0,31.0,Poor,Stay away,43,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+MBEG,M.B Engineering,3.82,12,7,6,5,3,7,5,45,-14.0,31.0,Poor,Stay away,40,1.9,-4.0,0.8,52.5,0,,nan,nan,nan
+RAKT,Rakta Paper Manufacturing,23.79,7,8,3,4,7,6,2,37,-6.0,31.0,Poor,Stay away,45,3.1,0.8,-0.2,48.0,0,,nan,nan,nan
+WCDF,Middle & West Delta Flour Mills,539.17,10,5,8,3,5,3,4,38,-10.0,31.0,Poor,Stay away,54,-0.8,-0.8,-0.5,47.3,0,,nan,nan,nan
+QNBA,Qatar National Bank,53.55,13,11,2,3,7,1,2,39,-10.0,30.0,Poor,Stay away,56,-1.2,-2.6,-0.4,52.3,1,,nan,nan,nan
+QNBE,Qatar Natl Bank,53.55,13,11,2,3,7,1,2,39,-10.0,30.0,Poor,Stay away,56,-1.2,-2.6,-0.4,52.3,1,,nan,nan,nan
+RACC,Raya Customer Experience,9.84,10,10,2,3,5,5,2,37,-10.0,30.0,Poor,Stay away,50,-3.2,-0.6,-0.5,51.0,0,,nan,nan,nan
+SPMD,Speed Medical,0.42,17,3,1,13,3,1,5,43,-13.0,30.0,Poor,Stay away,50,-2.3,2.4,4.4,60.9,0,,nan,nan,nan
+AIDC,Arabia for Investment and Development,0.65,15,1,5,10,5,4,5,45,-16.0,29.0,Poor,Stay away,56,4.8,4.8,8.3,77.7,0,,nan,nan,nan
+CPME,Catalyst Partners Middle East ,19.61,5,4,0,11,7,4,2,33,-4.0,29.0,Poor,Stay away,48,-1.7,-1.8,-3.4,40.5,0,,nan,nan,nan
+DTPP,Delta For Printing & Packaging,124.05,7,6,8,6,5,2,2,36,-10.0,29.0,Poor,Stay away,45,-2.3,-5.0,-3.5,43.3,0,,nan,nan,nan
+KZPC,Kafr El Zayat Pesticides,10.52,7,3,3,9,3,8,4,37,-8.0,29.0,Poor,Stay away,42,-0.7,-1.1,-0.7,49.3,0,,nan,nan,nan
+ORWE,Oriental Weavers,23.6,18,10,3,6,5,3,4,49,-20.0,29.0,Poor,Stay away,61,1.5,7.0,2.1,57.3,0,,nan,nan,nan
+PHGC,Premium HealthCare Group,0.09,12,5,11,6,3,0,3,40,-10.0,29.0,Poor,Stay away,43,0.0,0.0,0.5,57.1,0,,nan,nan,nan
+AMIA,Arab Moltaka Investments Co.,8.8,15,5,2,8,5,0,5,40,-12.0,28.0,Poor,Stay away,57,0.6,-7.1,4.6,64.4,0,,nan,nan,nan
+INFI,Ismailia National Food Industries,100.25,8,5,6,3,5,4,4,35,-10.0,28.0,Poor,Stay away,29,-4.0,-0.3,-0.9,49.9,0,,nan,nan,nan
+ISMA,Ismailia Misr Poultry,28.8,19,2,6,15,5,2,5,54,-26.0,28.0,Poor,Stay away,66,9.7,18.1,16.9,89.3,2,,nan,nan,nan
+KWIN,El Kahera El Watania Investment,71.91,11,6,6,0,7,3,2,35,-12.0,28.0,Poor,🔥 COILED: Stay away,45,0.7,-0.5,-0.0,51.8,0,,nan,nan,nan
+NHPS,National Housing for Professional Syndicates,68.43,10,4,8,1,5,5,2,35,-10.0,28.0,Poor,Stay away,35,-2.0,-2.1,-1.2,47.0,0,,nan,nan,nan
+SCTS,Sues Canal Company For Technology Settling,614.35,12,4,3,6,5,2,3,35,-10.0,28.0,Poor,Stay away,47,-2.4,-5.8,-0.8,54.1,0,,nan,nan,nan
+MCRO,Macro Group Pharmaceuticals - Macro Capital,1.26,10,6,7,2,1,3,3,32,-10.0,27.0,Poor,🔥 COILED: Stay away,30,-1.6,1.6,0.1,50.4,0,,nan,nan,nan
+NARE,Naeem Real Estate Holding Group,9.6,12,8,4,3,3,1,4,35,-8.0,27.0,Poor,Stay away,50,-0.3,-1.4,-0.1,52.9,0,,nan,nan,nan
+RAYA,Raya Holding For Financial Investments,7.45,13,3,3,11,3,3,5,41,-14.0,27.0,Poor,Stay away,58,-0.7,0.5,3.1,59.3,0,,nan,nan,nan
+SAIB,Societe Arabe Internationale De Banque S.A.E,2.11,5,4,10,6,3,1,3,32,-10.0,27.0,Poor,🔥 COILED: Stay away,23,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+AFMC,Alexandria Flour Mills,72.8,13,4,6,4,7,0,5,39,-14.0,25.0,Poor,Stay away,50,-0.8,-2.4,0.8,55.1,0,,nan,nan,nan
+AITG,Assiut Islamic Trading,28.08,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+AIVCB,Al Arafa Investment And Consulting in EGP,2.22,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+ALEX,Alexandria Cement,5.96,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+APPC,Advanced Pharmaceutical Packaging Co. (APP),2.33,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,0,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+AREHA,Egyptian Real Estate Group Bearer Shares,11.72,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+CLHO,Cleopatra Hospital Company,15.2,15,4,2,13,3,2,4,43,-18.0,25.0,Poor,Stay away,48,-2.4,-7.0,-0.9,51.7,0,,nan,nan,nan
+DCRC,Delta Construction & Rebuilding,23.05,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,0,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+EDFM,East Delta Flour Mills,333.99,11,6,2,3,5,1,4,32,-10.0,25.0,Poor,Stay away,54,-2.0,-2.4,-0.2,51.9,0,,nan,nan,nan
+EITP,Egyptian International Tourism Projects,13.76,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+EMRI,Emerald Real Estate Investment,1.58,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+ESGI,Egyptian Starch & Glucose,9.38,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+FERC,FERCHEM MISR CO. FOR FERTILLIZERS & CHEMICALS,77.41,2,11,3,1,7,7,2,33,-6.0,25.0,Poor,Stay away,30,0.1,-1.8,-1.4,40.6,1,,nan,nan,nan
+GTHE,Global Telecom Holding,4.9,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+ICAL,Inter-Cairo For Aluminum Industry,1,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+IDHC,Integrated Diagnostics Holdings Plc,20,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+IPPM,International Printing & Packaging Materials Co.,1,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+IRAX,EL Ezz Aldekhela Steel - Alexandria,1251,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+MEGM,Middle East Glass Manufacturing,43.92,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+MFIN,Misr Financial Investments,1,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+NBKE,National Bank Of Kuwait- Egypt- NBK,13,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+NASR,El Nasr Transformers (El Maco),16,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+NCEM,National Cement,15.51,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+NCMP,National company for maize products,58,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+NCIN,Nile City Investment,344.28,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+NCGC,Nile Cotton Ginning,6.55,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+ODHN,Orascom Development Holding (AG),5.09,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+ODID,Odin for Investment & Development,3.5,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+ORAS,Orascom Construction PLC,715.1,13,3,4,14,3,2,5,44,-19.0,25.0,Poor,Stay away,55,-4.3,0.2,2.2,61.4,0,,nan,nan,nan
+OREG,Orange Egypt For Telecommunications,11.83,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+PACH,Paint & Chemicals Industries (Pachin),39.8,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+PIOH,Pioneers Holding,5.91,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+RMTV,Rowad Misr Tourism Investment,480.75,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+SBAG,Suez Bags,8.2,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+SIMO,Paper Middle East (Simo),9.21,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,0,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+SEIGA,Saudi Egyptian Investment & Finance $,0.95,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+SKPC,Sidi Kerir Petrochemicals - SIDPEC,17.15,3,13,5,5,5,1,2,34,-10.0,25.0,Poor,Stay away,38,-0.8,-3.1,-0.9,46.5,1,,nan,nan,nan
+SMCS,Samcrete Misr,3.76,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+SMCSA,Samcrete Misr Preferred Shares,13.62,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+SMPP,Modern Shorouk Printing & Packaging,72,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+SMFR,Samad Misr -EGYFERT,206.04,10,4,4,4,5,8,4,39,-14.0,25.0,Poor,Stay away,48,-0.4,-3.1,-0.4,50.8,0,,nan,nan,nan
+SRWA,Sarwa Capital Holding,3.75,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+TORA,Torah Cement,6.77,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+UASG,United Arab Shipping,0.64,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,0,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+TOUR,Tourism Urbanization,6.85,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+UNBE,"Union National Bank - Egypt "" UNB-E",6.43,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+WATP,Modern Company For Water Proofing (Bitumode),3.8,2,4,10,6,3,2,3,30,-10.0,25.0,Poor,🔥 COILED: Stay away,30,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+EOSB,El Orouba Securities Brokerage,1.42,14,6,2,3,5,0,4,34,-13.0,24.0,Broken,Avoid/exit,53,0.7,0.7,1.6,75.4,0,,nan,nan,nan
+ORMT,Orascom Investment Holding,1.41,4,10,1,4,6,4,2,31,-8.0,23.0,Broken,Avoid/exit,57,-4.1,-7.8,-3.9,40.4,1,,nan,nan,nan
+EFMP,El-Farasha Co.For Manufacture And Printing Packing And Wrapp,0.2,2,4,10,6,0,2,3,27,-10.0,22.0,Broken,🔥 COILED: Avoid/exit,27,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+ELEC,Electro Cable Egypt,2.14,11,7,5,0,5,7,3,38,-16.0,22.0,Broken,Avoid/exit,26,0.9,0.0,-0.4,48.2,0,,nan,nan,nan
+EPCO,Egypt for Poultry,9.09,7,4,6,5,3,7,4,36,-14.0,22.0,Broken,Avoid/exit,38,0.1,0.0,-0.5,49.5,0,,nan,nan,nan
+MRCO,Misr Conditioning (Miraco),119.16,2,4,10,6,0,2,3,27,-10.0,22.0,Broken,🔥 COILED: Avoid/exit,27,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+NOAF,North Africa Co. for Real Estate Investment,1.77,2,4,10,6,0,2,3,27,-10.0,22.0,Broken,🔥 COILED: Avoid/exit,27,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+SUCE,Suez Cement,7.4,2,4,10,6,0,2,3,27,-10.0,22.0,Broken,🔥 COILED: Avoid/exit,27,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+DEIN,Delta Insurance,11.38,7,5,7,3,3,0,3,28,-10.0,21.0,Broken,Avoid/exit,27,0.0,0.0,-0.0,0.0,0,,nan,nan,nan
+DGTZ,Digitize for Investment And Technology,2.65,8,9,8,0,2,5,2,34,-13.0,21.0,Broken,Avoid/exit,23,1.5,-0.4,-1.1,43.7,0,,nan,nan,nan
+IRON,Egyptian Iron & Steel,32.52,4,8,8,1,5,2,2,30,-10.0,21.0,Broken,Avoid/exit,35,1.0,-3.0,-1.1,46.3,1,,nan,nan,nan
+LUTS,Lotus For Agricultural Investments And Development,0.63,16,6,5,13,5,2,5,52,-27.0,21.0,Broken,🛑 HIGH EXHAUSTION: Avoid/exit,50,12.5,10.5,9.5,69.2,2,,nan,nan,nan
+IEEC,Industrial & Engineering Projects,0.45,14,3,9,0,3,7,3,39,-19.0,20.0,Broken,Avoid/exit,33,0.0,0.0,0.6,53.1,0,,nan,nan,nan
+MFPC,Misr Fretilizers Production Company - Mopco,42.56,4,9,5,1,5,3,2,29,-10.0,20.0,Broken,Avoid/exit,46,-2.2,-4.4,-3.0,42.4,1,,nan,nan,nan
+MOSC,Misr Oils & Soap,268.0,13,5,1,0,5,4,2,30,-10.0,20.0,Broken,Avoid/exit,55,-3.9,-8.0,-2.4,50.4,0,,nan,nan,nan
+NDRL,National Drilling,4.69,5,5,6,2,3,1,3,25,-10.0,20.0,Broken,🔥 COILED: Avoid/exit,24,0.0,0.0,0.0,50.0,0,,nan,nan,nan
+WKOL,Wadi Kom Ombo Land Reclamation,292.31,10,4,3,0,3,5,2,27,-10.0,20.0,Broken,Avoid/exit,44,-1.3,-3.7,-1.8,44.9,0,,nan,nan,nan
+ADPC,The Arab Dairy Products Co. Arab Dairy - Panda,3.68,7,4,2,0,4,6,3,26,-8.0,18.0,Broken,Avoid/exit,45,1.4,-12.2,-2.1,45.7,0,,nan,nan,nan
+EALR,El Arabia for Land Reclamation,352.93,11,4,7,0,3,5,2,32,-14.0,18.0,Broken,Avoid/exit,42,-0.6,-4.5,-1.8,46.5,0,,nan,nan,nan
+EFIC,Egyptian Financial & Industrial,204.1,1,4,3,9,5,3,3,28,-10.0,18.0,Broken,Avoid/exit,26,-1.7,-6.3,-2.8,35.3,0,,nan,nan,nan
+AMES,Alexandria New Medical Center,50.63,6,9,1,1,3,0,2,22,-10.0,17.0,Broken,🔥 COILED: Avoid/exit,33,-4.4,-6.2,-3.6,44.9,0,,nan,nan,nan
+AMOC,Alexandria Mineral Oils Company,8.31,5,12,2,5,7,1,2,34,-20.0,17.0,Broken,Avoid/exit,49,-1.8,-4.5,-1.1,47.2,1,,nan,nan,nan
+BTFH,Beltone Holding,3.03,4,6,7,5,3,3,3,31,-14.0,17.0,Broken,Avoid/exit,36,-4.1,-4.1,-2.1,44.7,0,,nan,nan,nan
+EFID,Edita Food Industries S.A.E,28.39,8,6,8,3,3,5,2,35,-14.0,17.0,Broken,Avoid/exit,37,-2.4,1.4,-1.1,46.4,0,,nan,nan,nan
+HELI,Heliopolis Housing,6.39,12,5,2,3,5,2,2,31,-14.0,17.0,Broken,Avoid/exit,50,-4.6,-2.0,-1.7,48.7,0,,nan,nan,nan
+SWDY,ELSWEDY ELECTRIC,87.2,11,6,6,4,3,1,4,35,-18.0,17.0,Broken,Avoid/exit,48,-4.4,-1.5,-1.0,49.1,0,,nan,nan,nan
+ACGC,Arab Cotton Ginning,9.66,13,3,2,4,3,0,5,30,-14.0,16.0,Broken,Avoid/exit,46,-3.6,-0.4,2.0,57.0,0,,nan,nan,nan
+CCRS,Gulf Canadian Real Estate Investment Co.,2.46,11,3,5,9,3,3,5,39,-23.0,16.0,Broken,Avoid/exit,50,0.0,3.4,6.1,64.7,0,,nan,nan,nan
+NINH,Nozha International Hospital,17.85,10,9,2,6,3,0,2,32,-16.0,16.0,Broken,Avoid/exit,46,-1.3,-6.0,-4.1,46.3,0,,nan,nan,nan
+OBRI,El Obour Real Estate Investment,34.31,3,7,3,0,5,4,2,24,-8.0,16.0,Broken,Avoid/exit,39,-1.5,-5.8,-4.7,36.2,0,,nan,nan,nan
+TRTO,TransOceans Tours,0.03,7,3,5,5,3,0,3,26,-10.0,16.0,Broken,Avoid/exit,25,0.0,0.0,-0.0,13.9,0,,nan,nan,nan
+DOMT,Arabian Food Industries DOMTY,24.47,4,6,2,4,5,1,3,25,-10.0,15.0,Broken,Avoid/exit,42,-3.9,-4.8,-2.6,39.1,0,,nan,nan,nan
+PHTV,Pyramisa Hotels,205.13,12,4,1,5,5,0,3,30,-20.0,15.0,Broken,🔥 COILED: Avoid/exit,44,-3.7,0.6,-1.0,49.9,0,,nan,nan,nan
+GGRN,Gogreen for Agricultural Investment,1.5,4,9,3,0,4,2,2,24,-8.0,14.0,Broken,Avoid/exit,14,-1.3,-2.6,-12.8,29.4,1,,nan,nan,nan
+GTEX,GTEX For Commercial And Industrial,0.03,1,1,0,10,2,0,3,17,-3.0,14.0,Broken,Avoid/exit,23,-25.0,-25.0,-17.1,26.0,0,,nan,nan,nan
+ICFC,International Company For Fertilizers & Chemicals,15.51,4,5,9,0,3,1,2,24,-10.0,14.0,Broken,Avoid/exit,37,-2.6,-3.7,-1.8,42.7,0,,nan,nan,nan
+SCFM,South Cairo & Giza Mills & Bakeries,258.54,11,4,3,0,5,4,5,32,-18.0,14.0,Broken,Avoid/exit,39,-3.1,-5.6,-2.3,46.9,0,,nan,nan,nan
+ACTF,Act Financial,2.74,5,5,3,1,5,1,3,23,-10.0,13.0,Broken,Avoid/exit,29,-2.1,-1.8,-1.3,44.2,0,,nan,nan,nan
+ALCN,Alexandria Containers and goods,28.81,7,6,8,4,3,1,2,31,-18.0,13.0,Broken,Avoid/exit,33,-3.0,-1.8,-2.4,41.6,0,,nan,nan,nan
+MFSC,Misr Duty Free Shops,47.48,13,4,2,4,5,4,5,37,-24.0,13.0,Broken,Avoid/exit,52,-8.9,-17.9,1.5,56.3,0,,nan,nan,nan
+GSSC,General Silos & Storage,248.92,4,8,3,0,7,0,2,24,-10.0,12.0,Broken,Avoid/exit,42,-2.5,-5.8,-3.1,36.6,1,,nan,nan,nan
+RUBX,Rubex International for Plastic and Acrylic Manufacturing,10.23,5,10,2,0,5,0,2,24,-10.0,12.0,Broken,Avoid/exit,45,0.3,-7.8,-2.6,44.1,1,,nan,nan,nan
+OIH,Orascom Investment Holding SAE,1.41,7,2,6,4,3,4,2,28,-18.0,10.0,Broken,Avoid/exit,45,-4.1,-8.4,-4.7,39.0,0,,nan,nan,nan
+SAUD,Al Baraka Bank Egypt,22.23,7,6,2,3,3,5,2,28,-18.0,10.0,Broken,Avoid/exit,52,-1.2,-2.4,-1.9,47.1,0,,nan,nan,nan
+UEFM,Upper Egypt Flour Mills,474.08,1,4,7,0,4,6,2,24,-14.0,10.0,Broken,Avoid/exit,33,-1.2,-1.8,-2.2,38.9,0,,nan,nan,nan
+DSCW,Dice Sport & Casual Wear,1.81,7,8,3,3,3,2,2,28,-19.0,9.0,Broken,Avoid/exit,24,1.7,-2.2,-1.7,44.9,0,,nan,nan,nan
+HRHO,EFG Holding,26.33,0,4,3,2,5,3,2,19,-10.0,9.0,Broken,Avoid/exit,31,-5.0,-2.2,-3.5,39.9,0,,nan,nan,nan
+SPIN,Alexandria Spinning & Weaving (SPINALEX),14.1,5,6,6,5,5,4,3,34,-23.0,9.0,Broken,Avoid/exit,44,-2.5,-4.1,-1.5,42.4,0,,nan,nan,nan
+ARAB,Arab Developers Holding,0.2,5,6,7,5,0,0,3,26,-18.0,8.0,Broken,Avoid/exit,30,-4.8,0.0,-2.2,43.3,0,,nan,nan,nan
+GTWL,Golden Textiles & Clothes Wool,45.8,4,8,1,2,5,0,2,22,-14.0,8.0,Broken,Avoid/exit,43,-6.2,-13.6,-7.5,35.7,0,,nan,nan,nan
+MCQE,Misr Cement (Qena),189.98,10,6,9,3,3,0,3,34,-28.0,6.0,Broken,Avoid/exit,44,-3.6,0.2,-1.5,45.8,0,,nan,nan,nan
+VLMRA,Valmore Holding-EGP,28.8,1,3,2,0,2,6,2,16,-10.0,6.0,Broken,Avoid/exit,0,-1.9,-8.9,-5.0,34.6,0,,nan,nan,nan
+COMI,Commercial International Bank-Egypt (CIB),130.1,4,3,4,2,3,5,2,23,-18.0,5.0,Broken,Avoid/exit,46,-1.3,-2.6,-2.6,42.4,0,,nan,nan,nan
+FWRY,Fawry For Banking Technology And Electronic Payment,18.41,2,2,1,3,5,2,2,17,-14.0,3.0,Broken,Avoid/exit,48,-10.2,-5.2,-6.4,37.1,0,,nan,nan,nan
+NAHO,Naeem Holding,0.1,0,4,1,0,0,2,2,9,-10.0,2.0,Broken,Avoid/exit,19,0.0,-9.1,-4.2,42.7,0,,nan,nan,nan
